@@ -28,10 +28,6 @@ import aula7.exercicio1.Compra;
 public class Principal {
 
 	public static void main(String[] args) {
-		int[] a = {1,2,3,4,5};
-		int x = 0;
-		for(int e:a) {x+=((e%2)==0)?e:1;}
-		
-		System.out.println(x);
+		System.out.println("Aula de git");
 	}
 }
