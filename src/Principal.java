@@ -28,6 +28,8 @@ import aula7.exercicio1.Compra;
 public class Principal {
 
 	public static void main(String[] args) {
-		System.out.println("Aula de git");
+		System.out.print("Aula de git");
+		
+		
 	}
 }
